@@ -5,7 +5,7 @@ adadwadwawawdawd
 
 *Vulnerable Node: A very vulnerable web site written in NodeJS*
 
-Codename | PsEA tets etstest qd
+Codename | PsEA tets etstest qdafafafafafafafafasfa
 -------- | ----dadada
 Version | 1.0
 Code | https://github.com/cr0hn/vulnerable-node
