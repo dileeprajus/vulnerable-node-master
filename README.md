@@ -46,7 +46,7 @@ Building postgres_db
 Step 1 : FROM library/postgres
 ---> 247a11721cbd
 Step 2 : MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
----> Using cache
+---> Using cache awdfouwanfo[buiawsofbuaoufbao'f
 ---> d67c05e9e2d5
 Step 3 : ADD init.sql /docker-entrypoint-initdb.d/
 ....
