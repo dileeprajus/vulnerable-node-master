@@ -76,7 +76,7 @@ Here some images of site:
 ## Vulnerability list:
 
 This project has the most common vulnerabilities of `OWASP Top 10 <https://www.owasp.org/index.php/Top_10_2013-Top_10>`:
-
+afafafaf
 - A1  - Injection
 - A2  - Broken Authentication and Session Management
 - A3  - Cross-Site Scripting (XSS)
